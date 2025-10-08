@@ -1,0 +1,13 @@
+'400':
+  description: Bad Request
+'401':
+  description: Unauthorized
+'429':
+  description: Too Many Requests
+  headers:
+    Retry-After:
+      $ref: '#/components/headers/Retry-After'
+'500':
+  description: Internal Server Error
+'default':
+  description: Unexpected Error
