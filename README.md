@@ -8,6 +8,18 @@ If something here saved you a few minutes — that’s already success.
 
 The goal is simple: help teams create cleaner, safer, and more consistent API
 
+## Topics
+openapi
+swagger
+api
+api-design
+rest
+best-practices
+architecture
+snippets
+yaml
+validation
+
 ## Content
 
 - [`openapi-common-mistakes.md`](./openapi-common-mistakes.md) – a living list of common OpenAPI issues and how to fix them
