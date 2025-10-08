@@ -1,7 +1,5 @@
 # Typical OpenAPI Mistakes and How to Fix Them
 
-[[_TOC_]]
-
 Lately I’ve noticed the same issues repeating in automatically generated OpenAPI specs — whether from FastAPI, AI tools, or custom code.
 
 Here’s a summary of the most common ones and how to fix them.
