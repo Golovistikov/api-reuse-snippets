@@ -10,7 +10,8 @@ The goal is simple: help teams create cleaner, safer, and more consistent API
 
 ## Content
 
-- [`openapi-common-mistakes.md`](./openapi-common-mistakes.md) – a living list of common OpenAPI issues and how to fix them  
+- [`openapi-common-mistakes.md`](./openapi-common-mistakes.md) – a living list of common OpenAPI issues and how to fix them
+- [`snippets/`](./snippets) - ready-to-use YAML fragments for headers, responses, security, versioning, etc.
 - More to come later (naming conventions, validation patterns, response formats)
 
 ## Usage
@@ -25,3 +26,8 @@ components:
     $ref: './snippets/common-headers.yaml'
   responses:
     $ref: './snippets/common-responses.yaml'
+
+## Contributions
+
+Feel free to open a PR or issue if you spot something off or want to add your favorite pattern.
+The tone here is practical, not academic — everything should be small, usable, and copy-paste friendly
