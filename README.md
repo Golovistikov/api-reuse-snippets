@@ -8,6 +8,8 @@ If something here saved you a few minutes — that’s already success.
 
 The goal is simple: help teams create cleaner, safer, and more consistent API
 
+See the related [LinkedIn post](https://www.linkedin.com/posts/andrei-golovistikov-9a13042b_why-i-believe-api-specs-should-come-before-activity-7394369933318471682-rjGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZGNIkBs5f94C2NFXw3SImy63leuX0qGBk)
+
 ## Topics
 openapi
 swagger
